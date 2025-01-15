@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "spectraldelights:item/incandescent_hot_sauce"
+  }
+}

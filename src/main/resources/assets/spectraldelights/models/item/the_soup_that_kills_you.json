@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "spectraldelights:item/the_soup_that_kills_you"
+  }
+}

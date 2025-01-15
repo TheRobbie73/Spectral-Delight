@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "spectraldelights:item/cooked_muttonous_ham"
+  }
+}
